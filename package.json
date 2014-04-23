@@ -1,0 +1,26 @@
+{
+  "name": "battle-bots",
+  "version": "0.0.0",
+  "description": "battle-bots ===========",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://TylerGarlick@github.com/TylerGarlick/battle-bots.git"
+  },
+  "author": "Tyler Garlick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TylerGarlick/battle-bots/issues"
+  },
+  "homepage": "https://github.com/TylerGarlick/battle-bots",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.18.2"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}

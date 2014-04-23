@@ -1,0 +1,7 @@
+--ui tdd
+--reporter spec
+--timeout 2000
+--slow 75
+--recursive
+--check-leaks
+--colors
